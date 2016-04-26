@@ -1,0 +1,23 @@
+{
+  "name": "node-shell",
+  "version": "1.0.0",
+  "description": "Node-shell",
+  "main": "bash.js",
+  "dependencies": {
+    "request": "^2.72.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "pwd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node-shell"
+  },
+  "keywords": [
+    "node",
+    "shell"
+  ],
+  "author": "Karen and Ashley",
+  "license": "ISC"
+}
